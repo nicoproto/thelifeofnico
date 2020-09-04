@@ -22,8 +22,9 @@ gem 'turbolinks', '~> 5'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-# Added gems
+# Added gems by me
 gem 'simple_form'
+gem 'dotenv-rails', groups: [:development, :test]
 
 
 # Use Active Storage variant
